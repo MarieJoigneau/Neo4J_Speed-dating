@@ -15,5 +15,5 @@ Documents à disposition :
 - Script  
 - Speed Dating Data Key & Speed Dating Data_original = issus de kaggle  
 
-Si vous avez besoin de plus de renseignement n'hésitez pas à me contacter,
+Si vous avez besoin de plus de renseignement n'hésitez pas à me contacter,  
 Marie
