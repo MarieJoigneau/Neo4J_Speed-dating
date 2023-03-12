@@ -1,3 +1,8 @@
+# Utilisation du logiciel Neo4J sur le speed-dating dans le cadre d'un projet ingénieur M2
+# Date du projet : novembre 2022
+# Auteurs : 
+# - Marie JOIGNEAU marie.joigneau@agrocampus-ouest.fr
+# - Laura PAPER laura.paper@agrocampus-ouest.fr
 
 #==========================================================================
 # INTRODUCTION
