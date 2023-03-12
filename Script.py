@@ -23,9 +23,9 @@ import math
 import matplotlib.pyplot as plt
 import numpy as np
 
-# we change the directory:
-print("Current working dir : %s" % os.getcwd())
-os.chdir("D:/OneDrive/ACO 3eme annee 2022-2023/big data - christine largouët/projet")
+# we change the directory: (undo the commentary mode if needed)
+# print("Current working dir : %s" % os.getcwd())
+# os.chdir("D:/OneDrive/ACO 3eme annee 2022-2023/big data - christine largouët/projet") # to change with yours
 
 # Connexion au graphe
 graph = Graph("bolt://localhost:7687", auth=("neo4j", "Marie"))
